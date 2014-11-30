@@ -11,4 +11,4 @@ root/dir1/file1.php
 
 You would have to use this relative URL:
 
-../../root/dir1/file1.php
+../../dir1/file1.php
